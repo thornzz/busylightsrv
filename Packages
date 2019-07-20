@@ -4,7 +4,7 @@ Architecture: all
 Essential: no
 Maintainer: K2M BILISIM
 Depends: mono-complete
-Filename: ./busylightsrv/busylight_x86_x64.deb
+Filename: ./busylight_x86_x64.deb
 Size: 593660
 MD5sum: b52de42ce46943e344b0c31f14bbe96b
 SHA1: a637841e7dac36d28bcaefa8fcfb4106a9b3221f

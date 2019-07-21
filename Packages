@@ -5,10 +5,10 @@ Essential: no
 Maintainer: K2M BILISIM
 Depends: mono-complete
 Filename: ./busylight_x86_x64.deb
-Size: 593424
-MD5sum: bef0276ee5c1b617c96a719ceb367653
-SHA1: 7081dd01f3845f92ed431814b60a2a047bc0acc8
-SHA256: 1e1ce9a6b03c7ee68176cce50932b492e882d8d781a64fb786c7a129666f1c45
+Size: 593540
+MD5sum: 1b213d63574eb353af7fe844bc59f5c3
+SHA1: b8a0129dccf7b861b170f9064f73f1cd1ed32bd2
+SHA256: 7fe980c9cee6a6a9d07b1b26740b2f11af853ca6d25687eda7862c312b9f1586
 Priority: optional
 Description: Busylight Server for 3CX Phone System.
 
